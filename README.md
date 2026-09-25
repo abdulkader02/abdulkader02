@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
 
 <h3 align="center">
-  Frontend Developer • CSE Student • Bangladesh 🇧🇩
+  Frontend Developer • CSE Student • Bangladesh
 </h3>
 
 <p align="center">
