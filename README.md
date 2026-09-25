@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
 
 <h3 align="center">
-  Frontend Developer • CSE Student • Bangladesh
+  Frontend Developer • CSE Student • Bangladesh 🇧🇩
 </h3>
 
 <p align="center">
@@ -96,11 +96,13 @@
 
 ## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdulkader02&theme=tokyo-night&hide_border=true&area=true"
+    alt="Abdul Kader Contribution Graph"
+  />
+</p>
+
 ---
 
 ## 🚀 Featured Project
