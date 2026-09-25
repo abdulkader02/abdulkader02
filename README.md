@@ -1,32 +1,194 @@
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [FitLog](https://github.com/abdulkader02/A6-Fit-Log)
+<h3 align="center">
+  Frontend Developer • CSE Student • Bangladesh 🇧🇩
+</h3>
 
-- 🌱 I’m currently learning **Full stack web development.**
-
-- 👯 I’m looking to collaborate on [Programming Hero](https://github.com/ProgrammingHero1)
-
-- 🤝 I’m looking for help with [Programming Hero](https://github.com/ProgrammingHero1/B14-A6-Fit-Log)
-
-- 👨‍💻 All of my projects are available at [https://github.com/abdulkader02](https://github.com/abdulkader02)
-
-- 💬 Ask me about **react, next.js**
-
-- 📫 How to reach me **muhammadkaderkhan0@gmail.com**
-
-- ⚡ Fun fact **I think I'm a Mentalist.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-kader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-kader" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/abdulkader02">
+    <img src="https://komarev.com/ghpvc/?username=abdulkader02&label=Profile%20Views&color=0e75b6&style=flat" alt="abdulkader02" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkader02&show_icons=true&locale=en&layout=compact" alt="abdulkader02" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkader02&show_icons=true&locale=en" alt="abdulkader02" /></p>
+* 🔭 Currently working on **[FitLog](https://github.com/abdulkader02/A6-Fit-Log)**
+* 🌱 Currently learning **Full-Stack Web Development**
+* 💻 Focused on **React.js, Next.js, TypeScript & modern web development**
+* 👯 Open to collaborating on interesting web development projects
+* 🤝 Currently learning and building projects with **Programming Hero**
+* 💬 Ask me about **React, Next.js, JavaScript & TypeScript**
+* 📫 Reach me at **[muhammadkaderkhan0@gmail.com](mailto:muhammadkaderkhan0@gmail.com)**
+* ⚡ Fun fact: **I think I'm a Mentalist 🧠**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkader02&" alt="abdulkader02" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+  </a>
+</p>
+
+### Backend & Tools
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdulkader02&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight"
+    height="180"
+    alt="Abdul Kader GitHub Stats"
+  />
+
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkader02&hide_border=true&theme=tokyonight"
+ height="180"
+ alt="Abdul Kader GitHub Streak"
+/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkader02&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdulkader02&theme=tokyo-night&hide_border=true&area=true"
+    alt="Abdul Kader Contribution Graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=abdulkader02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏋️ FitLog
+
+A fitness-focused web application where users can explore workouts and manage their workout plans.
+
+**Tech Stack:**
+
+`Next.js` `TypeScript` `React` `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/abdulkader02/A6-Fit-Log">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View FitLog"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkader02&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-kader" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="45"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/abdulkader02" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="45"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:muhammadkaderkhan0@gmail.com">
+    muhammadkaderkhan0@gmail.com
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <i>Keep learning • Keep building • Keep growing 🚀</i>
+</p>
