@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/github-banner.png"
+    src="./assets/github new banner.png"
     width="100%"
     alt="Abdul Kader Khan - Full Stack Developer"
   />
@@ -12,14 +12,14 @@
   Frontend Developer • CSE Student • Bangladesh 🇧🇩
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/abdulkader02">
     <img
       src="https://komarev.com/ghpvc/?username=abdulkader02&label=Profile%20Views&color=0e75b6&style=flat"
       alt="Profile Views"
     />
   </a>
-</p>
+</p> -->
 
 👨‍💻 About Me
 
